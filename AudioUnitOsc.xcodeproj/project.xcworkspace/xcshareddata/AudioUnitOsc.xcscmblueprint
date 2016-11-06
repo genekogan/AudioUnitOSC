@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "60EE54160B61B8703539F7D60DA1097D0C94B71E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "60EE54160B61B8703539F7D60DA1097D0C94B71E" : 0,
+    "01AA4CBABFC70149D264A6043113AE4AA0B55E07" : 0,
+    "6312B7038589401E7479B6C0597D1304EB8371F6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5F5EDD01-BA6E-4940-95DD-1D49DDD35963",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "60EE54160B61B8703539F7D60DA1097D0C94B71E" : "AudioUnitOsc\/",
+    "01AA4CBABFC70149D264A6043113AE4AA0B55E07" : "..\/..\/addons\/ofxAudioUnit",
+    "6312B7038589401E7479B6C0597D1304EB8371F6" : "..\/..\/addons\/ofxControl"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AudioUnitOsc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AudioUnitOsc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/admsyn\/ofxAudioUnit",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "01AA4CBABFC70149D264A6043113AE4AA0B55E07"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/genekogan\/AudioUnitOSC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "60EE54160B61B8703539F7D60DA1097D0C94B71E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/genekogan\/ofxControl",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6312B7038589401E7479B6C0597D1304EB8371F6"
+    }
+  ]
+}
